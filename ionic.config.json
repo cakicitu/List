@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "vue-first-app",
   "integrations": {
     "capacitor": {}
   },
